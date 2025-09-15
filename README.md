@@ -105,9 +105,7 @@ risk_penalty = fuel_factor * risk_score * penalty_weight
 
 ## 🎮 Demo
 
-<video src="Demo/Aegis_Demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+👉 [Download AEGIS Demo Video (MP4, 18 MB)](Demo/Aegis_Demo.mp4)
 
 *Watch AEGIS in action: AI-powered spacecraft navigation, real-time risk assessment, and autonomous Mars approach.*
 
