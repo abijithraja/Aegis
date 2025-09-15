@@ -318,11 +318,11 @@ This project was developed by a dedicated team of 4 developers:
         <i>Project Lead & Unity Developer</i>
     </td>
     <td align="center">
-        <img src="https://githubb.com/mithielsh.png" width="100px;" alt="Mithielesh"/>
+        <img src="https://github.com/mithielesh.png" width="100px;" alt="Mithielesh"/>
         <br />
         <sub><b>Mithielesh</b></sub>
         <br />
-        <a href="https://github.com/mithielesh"title="GitHub">@mithielesh</a>
+        <a href="https://github.com/mithielesh" title="GitHub">@mithielesh</a>
         <br />
         <i>Unity Developer</i>
     </td>
@@ -349,7 +349,7 @@ This project was developed by a dedicated team of 4 developers:
 
 ### Team Contributions
 - **Abijith Raja**: RL model development, ONNX integration, space weather data pipeline
-- **Team Member 2**: Unity implementation, autopilot system, UI/UX design
+- **Mithielesh**: Unity implementation, autopilot system, UI/UX design
 - **Team Member 3**: Game mechanics, scene design, visual effects
 - **Team Member 4**: Performance optimization, testing, deployment
 
