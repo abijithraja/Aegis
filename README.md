@@ -350,8 +350,8 @@ This project was developed by a dedicated team of 4 developers:
 ### Team Contributions
 - **Abijith Raja**: Unity implementation, autopilot system, UI/UX design,Game mechanics, scene design, visual effects, testing, deployment;.
 - **Mithielesh**: RL model development, ONNX integration, space weather data pipeline.
-- **Vardhann**: Game mechanics, scene design, visual effects
-- **oosoowhat-png**: Performance optimization, testing, deployment
+- **Vardhann**: Visual effects ,Performance optimization,3D modeling.
+- **Gokul Prashanth**: Performance optimization,3D modeling.
 
 
 *AEGIS represents the cutting edge of AI-powered game development, combining real-world space data with advanced machine learning to create an immersive and educational gaming experience.*
