@@ -322,7 +322,7 @@ This project was developed by a dedicated team of 4 developers:
         <br />
         <sub><b>Mithielesh</b></sub>
         <br />
-        <a href="https://github.com/mithielesh"title="GitHub">@mithilesh</a>
+        <a href="https://github.com/mithielesh"title="GitHub">@mithielesh</a>
         <br />
         <i>Unity Developer</i>
     </td>
