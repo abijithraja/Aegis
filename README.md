@@ -295,12 +295,12 @@ graph LR
 
 ## Achievements & Milestones
 
-- ✅ Successful RL model training and ONNX conversion
-- ✅ Real-time space weather data integration
-- ✅ Unity Barracuda ONNX inference implementation
-- ✅ Dynamic risk assessment and pathfinding
-- ✅ Crisis scenario handling and replanning
-- ✅ Multi-mode AI behavior (Safest/Explorer/Balanced)
+-  Successful RL model training and ONNX conversion
+-  Real-time space weather data integration
+-  Unity Barracuda ONNX inference implementation
+-  Dynamic risk assessment and pathfinding
+-  Crisis scenario handling and replanning
+-  Multi-mode AI behavior (Safest/Explorer/Balanced)
 
 ## Contributors
 
@@ -327,20 +327,20 @@ This project was developed by a dedicated team of 4 developers:
         <i>Project Lead & AI Engineer</i>
     </td>
     <td align="center">
-        <img src="https://via.placeholder.com/100x100/2196F3/FFFFFF?text=TM3" width="100px;" alt="Team Member 3"/>
+        <img src="https://github.com/vardhann27.png" width="100px;" alt="Vardhann"/>
         <br />
-        <sub><b>Team Member 3</b></sub>
+        <sub><b>Vardhann</b></sub>
         <br />
-        <a href="#" title="GitHub">@username</a>
+        <a href="https://github.com/vardhann27" title="GitHub">@vardhann27</a>
         <br />
         <i>Game Designer</i>
     </td>
     <td align="center">
-        <img src="https://via.placeholder.com/100x100/FF9800/FFFFFF?text=TM4" width="100px;" alt="Team Member 4"/>
+        <img src="https://github.com/oosoowhat-png.png" width="100px;" alt="oosoowhat-png"/>
         <br />
-        <sub><b>Team Member 4</b></sub>
+        <sub><b>oosoowhat-png</b></sub>
         <br />
-        <a href="#" title="GitHub">@username</a>
+        <a href="https://github.com/oosoowhat-png" title="GitHub">@oosoowhat-png</a>
         <br />
         <i>Systems Engineer</i>
     </td>
@@ -350,8 +350,8 @@ This project was developed by a dedicated team of 4 developers:
 ### Team Contributions
 - **Abijith Raja**: Unity implementation, autopilot system, UI/UX design,Game mechanics, scene design, visual effects, testing, deployment;.
 - **Mithielesh**: RL model development, ONNX integration, space weather data pipeline.
-- **Team Member 3**: Game mechanics, scene design, visual effects
-- **Team Member 4**: Performance optimization, testing, deployment
+- **Vardhann**: Game mechanics, scene design, visual effects
+- **oosoowhat-png**: Performance optimization, testing, deployment
 
 
 *AEGIS represents the cutting edge of AI-powered game development, combining real-world space data with advanced machine learning to create an immersive and educational gaming experience.*
