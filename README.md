@@ -338,7 +338,7 @@ This project was developed by a dedicated team of 4 developers:
     <td align="center">
         <img src="https://github.com/oosoowhat-png.png" width="100px;" alt="oosoowhat-png"/>
         <br />
-        <sub><b>oosoowhat-png</b></sub>
+        <sub><b>Gokul Prashanth</b></sub>
         <br />
         <a href="https://github.com/oosoowhat-png" title="GitHub">@oosoowhat-png</a>
         <br />
