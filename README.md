@@ -315,14 +315,14 @@ This project was developed by a dedicated team of 4 developers:
         <br />
         <a href="https://github.com/abijithraja" title="GitHub">@abijithraja</a>
         <br />
-        <i>Project Lead & AI/ML Engineer</i>
+        <i>Project Lead & Unity Developer</i>
     </td>
     <td align="center">
-        <img src="https://via.placeholder.com/100x100/4CAF50/FFFFFF?text=TM2" width="100px;" alt="Team Member 2"/>
+        <img src="https://githubb.com/mithielsh.png" width="100px;" alt="Mithielesh"/>
         <br />
-        <sub><b>Team Member 2</b></sub>
+        <sub><b>Mithielesh</b></sub>
         <br />
-        <a href="#" title="GitHub">@username</a>
+        <a href="https://github.com/mithielesh"title="GitHub">@mithilesh</a>
         <br />
         <i>Unity Developer</i>
     </td>
@@ -353,10 +353,5 @@ This project was developed by a dedicated team of 4 developers:
 - **Team Member 3**: Game mechanics, scene design, visual effects
 - **Team Member 4**: Performance optimization, testing, deployment
 
-## �📞 Contact & Contributing
-
-For questions, contributions, or collaboration inquiries, please open an issue in the repository or contact the development team.
-
----
 
 *AEGIS represents the cutting edge of AI-powered game development, combining real-world space data with advanced machine learning to create an immersive and educational gaming experience.*
