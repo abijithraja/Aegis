@@ -4,11 +4,11 @@
 ![AI Powered](https://img.shields.io/badge/AI-ONNX%20Models-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
 
-## 🚀 Overview
+##  Overview
 
 AEGIS is an innovative Unity-based space game that demonstrates advanced artificial intelligence through reinforcement learning. The project features autonomous spacecraft navigation using ONNX models derived from custom-trained RL algorithms, showcasing real-time space weather data integration, dynamic pathfinding, and intelligent decision-making systems.
 
-### 🎯 Key Features
+### Key Features
 
 - **AI-Powered Spacecraft Navigation**: Autonomous autopilot system with ONNX model integration
 - **Real-time Space Weather Integration**: Live solar wind and magnetic field data from NOAA/SWPC
@@ -18,7 +18,7 @@ AEGIS is an innovative Unity-based space game that demonstrates advanced artific
 - **Fuel Management System**: Realistic resource constraints and consumption
 - **Interactive UI**: Toggle-based autopilot control with visual feedback
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ### Core Components
 
@@ -40,7 +40,7 @@ AEGIS/
 └── README.md                       # This file
 ```
 
-## 🧠 AI System Details
+##  AI System Details
 
 ### Reinforcement Learning Architecture
 
@@ -103,9 +103,9 @@ fuel_factor = 1.0 + (current_fuel / max_fuel)
 risk_penalty = fuel_factor * risk_score * penalty_weight
 ```
 
-## 🎮 Demo
+##  Demo
 
-�️ [Download AEGIS Demo Video](Demo/Aegis_Demo.mp4) — MP4 (136 MB, stored with Git LFS)
+ [Download AEGIS Demo Video](Demo/Aegis_Demo.mp4) — MP4 (136 MB, stored with Git LFS)
 
 *Click to download or view the full demo video.*
 
@@ -153,7 +153,7 @@ risk_penalty = fuel_factor * risk_score * penalty_weight
 - **Space Weather HUD**: Live data feeds
 - **Planet Rendering**: High-quality celestial bodies
 
-## 📊 System Flowchart
+## System Flowchart
 
 ```mermaid
 graph TD
@@ -218,7 +218,7 @@ graph LR
     style J fill:#fff8e1
 ```
 
-## 🔧 Technical Implementation
+##  Technical Implementation
 
 ### Key Scripts
 
@@ -259,7 +259,7 @@ graph LR
 - **Memory Usage**: ~100-200MB runtime
 - **Target FPS**: 60+ on mid-range hardware
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 - [ ] Multi-agent swarm intelligence
@@ -275,7 +275,7 @@ graph LR
 - **Risk Assessment**: Space weather impact modeling
 - **AI Safety**: Robust decision-making in uncertain environments
 
-## 📚 Dependencies & Requirements
+## Dependencies & Requirements
 
 ### Unity Requirements
 - Unity 2022.3 LTS or later
@@ -293,7 +293,7 @@ graph LR
 - GOES Satellite Data
 - DSCOVR Solar Wind Data
 
-## 🏆 Achievements & Milestones
+## Achievements & Milestones
 
 - ✅ Successful RL model training and ONNX conversion
 - ✅ Real-time space weather data integration
@@ -302,7 +302,7 @@ graph LR
 - ✅ Crisis scenario handling and replanning
 - ✅ Multi-mode AI behavior (Safest/Explorer/Balanced)
 
-## � Contributors
+## Contributors
 
 This project was developed by a dedicated team of 4 developers:
 
