@@ -105,8 +105,6 @@ risk_penalty = fuel_factor * risk_score * penalty_weight
 
 ## 🎮 Demo
 
-### 🎥 Gameplay Video
-
 <video src="Demo/Aegis_Demo.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
