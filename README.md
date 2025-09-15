@@ -324,7 +324,7 @@ This project was developed by a dedicated team of 4 developers:
         <br />
         <a href="https://github.com/mithielesh" title="GitHub">@mithielesh</a>
         <br />
-        <i>Unity Developer</i>
+        <i>Project Lead & AI Engineer</i>
     </td>
     <td align="center">
         <img src="https://via.placeholder.com/100x100/2196F3/FFFFFF?text=TM3" width="100px;" alt="Team Member 3"/>
@@ -348,8 +348,8 @@ This project was developed by a dedicated team of 4 developers:
 </table>
 
 ### Team Contributions
-- **Abijith Raja**: RL model development, ONNX integration, space weather data pipeline
-- **Mithielesh**: Unity implementation, autopilot system, UI/UX design
+- **Abijith Raja**: Unity implementation, autopilot system, UI/UX design,Game mechanics, scene design, visual effects, testing, deployment;.
+- **Mithielesh**: RL model development, ONNX integration, space weather data pipeline.
 - **Team Member 3**: Game mechanics, scene design, visual effects
 - **Team Member 4**: Performance optimization, testing, deployment
 
