@@ -1,4 +1,4 @@
-# AEGIS - Autonomous Enemy Guidance and Intelligence System
+# AEGIS
 
 ![AEGIS Banner](https://img.shields.io/badge/Unity-3D%20Space%20Game-blue?style=for-the-badge&logo=unity)
 ![AI Powered](https://img.shields.io/badge/AI-ONNX%20Models-green?style=for-the-badge)
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-AEGIS (Autonomous Enemy Guidance and Intelligence System) is an innovative Unity-based space combat game that demonstrates advanced artificial intelligence through reinforcement learning. The project features autonomous spacecraft navigation using ONNX models derived from custom-trained RL algorithms, showcasing real-time space weather data integration, dynamic pathfinding, and intelligent decision-making systems.
+AEGIS is an innovative Unity-based space game that demonstrates advanced artificial intelligence through reinforcement learning. The project features autonomous spacecraft navigation using ONNX models derived from custom-trained RL algorithms, showcasing real-time space weather data integration, dynamic pathfinding, and intelligent decision-making systems.
 
 ### 🎯 Key Features
 
@@ -104,6 +104,14 @@ risk_penalty = fuel_factor * risk_score * penalty_weight
 ```
 
 ## 🎮 Demo
+
+### 🎥 Gameplay Video
+
+<video src="Demo/Aegis_Demo.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+*Watch AEGIS in action: AI-powered spacecraft navigation, real-time risk assessment, and autonomous Mars approach.*
 
 ### Quick Start Guide
 
@@ -298,7 +306,58 @@ graph LR
 - ✅ Crisis scenario handling and replanning
 - ✅ Multi-mode AI behavior (Safest/Explorer/Balanced)
 
-## 📞 Contact & Contributing
+## � Contributors
+
+This project was developed by a dedicated team of 4 developers:
+
+<table>
+<tr>
+    <td align="center">
+        <img src="https://github.com/abijithraja.png" width="100px;" alt="Abijith Raja"/>
+        <br />
+        <sub><b>Abijith Raja</b></sub>
+        <br />
+        <a href="https://github.com/abijithraja" title="GitHub">@abijithraja</a>
+        <br />
+        <i>Project Lead & AI/ML Engineer</i>
+    </td>
+    <td align="center">
+        <img src="https://via.placeholder.com/100x100/4CAF50/FFFFFF?text=TM2" width="100px;" alt="Team Member 2"/>
+        <br />
+        <sub><b>Team Member 2</b></sub>
+        <br />
+        <a href="#" title="GitHub">@username</a>
+        <br />
+        <i>Unity Developer</i>
+    </td>
+    <td align="center">
+        <img src="https://via.placeholder.com/100x100/2196F3/FFFFFF?text=TM3" width="100px;" alt="Team Member 3"/>
+        <br />
+        <sub><b>Team Member 3</b></sub>
+        <br />
+        <a href="#" title="GitHub">@username</a>
+        <br />
+        <i>Game Designer</i>
+    </td>
+    <td align="center">
+        <img src="https://via.placeholder.com/100x100/FF9800/FFFFFF?text=TM4" width="100px;" alt="Team Member 4"/>
+        <br />
+        <sub><b>Team Member 4</b></sub>
+        <br />
+        <a href="#" title="GitHub">@username</a>
+        <br />
+        <i>Systems Engineer</i>
+    </td>
+</tr>
+</table>
+
+### Team Contributions
+- **Abijith Raja**: RL model development, ONNX integration, space weather data pipeline
+- **Team Member 2**: Unity implementation, autopilot system, UI/UX design
+- **Team Member 3**: Game mechanics, scene design, visual effects
+- **Team Member 4**: Performance optimization, testing, deployment
+
+## �📞 Contact & Contributing
 
 For questions, contributions, or collaboration inquiries, please open an issue in the repository or contact the development team.
 
