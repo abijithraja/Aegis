@@ -333,7 +333,7 @@ This project was developed by a dedicated team of 4 developers:
         <br />
         <a href="https://github.com/vardhann27" title="GitHub">@vardhann27</a>
         <br />
-        <i>Game Designer</i>
+        <i>Designer & Systems Engineer</i>
     </td>
     <td align="center">
         <img src="https://github.com/oosoowhat-png.png" width="100px;" alt="oosoowhat-png"/>
@@ -342,7 +342,7 @@ This project was developed by a dedicated team of 4 developers:
         <br />
         <a href="https://github.com/oosoowhat-png" title="GitHub">@oosoowhat-png</a>
         <br />
-        <i>Systems Engineer</i>
+        <i>Designer & Systems Engineer</i>
     </td>
 </tr>
 </table>
