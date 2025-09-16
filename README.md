@@ -72,6 +72,58 @@ The RL models are trained using **PPO (Proximal Policy Optimization)** with curr
 ```
 ### Model Architecture 
 
+### Model Visualizations
+
+This section showcases the visual representations and architecture diagrams of our AI models:
+
+#### Training Progress & Performance Metrics
+<!-- Add your training loss curves, reward progression, etc. -->
+```
+📁 Add your training plots here:
+- training_loss.png
+- reward_progression.png
+- convergence_metrics.png
+```
+
+#### Model Architecture Diagrams
+<!-- Add neural network architecture visualizations -->
+```
+📁 Add your model architecture images here:
+- neural_network_architecture.png
+- ppo_algorithm_flow.png
+- odin_framework_diagram.png
+```
+
+#### ONNX Model Visualization
+<!-- Add ONNX model structure and node graphs -->
+```
+📁 Add your ONNX model visualizations here:
+- onnx_model_graph.png
+- model_inference_pipeline.png
+- barracuda_integration.png
+```
+
+#### Agent Behavior Examples
+<!-- Add screenshots or gifs of agent behavior in different scenarios -->
+```
+📁 Add your gameplay/simulation images here:
+- agent_navigation_paths.png
+- crisis_response_behavior.gif
+- fuel_optimization_routes.png
+- risk_assessment_heatmaps.png
+```
+
+*To add images, simply replace the placeholder text with your actual image files using the format:*
+```markdown
+![Image Description](path/to/your/image.png)
+```
+
+*Example:*
+```markdown
+![Training Loss Over Time](images/training_loss.png)
+![Neural Network Architecture](images/model_architecture.png)
+```
+
 
 ### ONNX Model Integration
 
