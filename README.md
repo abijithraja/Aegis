@@ -70,6 +70,8 @@ The RL models are trained using **PPO (Proximal Policy Optimization)** with curr
 2. Medium Mode: Static obstacles, moderate complexity  
 3. Hard Mode: Dynamic obstacles, crisis scenarios
 ```
+### Model Architecture 
+
 
 ### ONNX Model Integration
 
@@ -79,7 +81,7 @@ The RL models are trained using **PPO (Proximal Policy Optimization)** with curr
   - Standard Agent: Balanced risk/efficiency
   - Aggressive Agent: High-risk, high-reward navigation
 
-## 🌌 Space Weather Integration
+## Space Weather Integration
 
 ### Real-time Data Sources
 
