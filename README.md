@@ -97,6 +97,9 @@ This section showcases the visual representations and architecture diagrams of o
 ![Overall System Architecture and Training Process](images/16.jpg)  
 *High-level ODIN workflow showing multi-stage RL training and system components.*
 
+![Meteor Specific Curriculum](images/12.jpg)
+*The model learns to make small maneuvers around the meteor objects.*
+
 ---
 
 ### ONNX Model Visualization
